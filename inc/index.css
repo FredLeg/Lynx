@@ -1,0 +1,7 @@
+
+
+h3 { margin: 0px; margin-top: 4px; padding: 0px; font-size: 22px; font-weight: 600; color: rgb(51, 51, 51); }
+p { margin: 7px 0px; padding: 0px; }
+p + h3 { margin-top: 15px; }
+strong { color: rgb(85, 85, 85); font-style: italic; }
+#couv { display: block; margin: 0 auto; width: 67%; }
